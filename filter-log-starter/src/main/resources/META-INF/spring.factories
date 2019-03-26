@@ -1,0 +1,1 @@
+spring.cloud.demo.study.annotation.EnableLogFilter=spring.cloud.demo.study.config.LogFilterAutoConfiguration
